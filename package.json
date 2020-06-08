@@ -1,0 +1,24 @@
+{
+  "name": "cesarcardozoud.github.io",
+  "version": "1.0.0",
+  "description": "Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarCardozoUD/CesarCardozoUD.github.io.git"
+  },
+  "author": "Cesar Cardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarCardozoUD/CesarCardozoUD.github.io/issues"
+  },
+  "homepage": "https://github.com/CesarCardozoUD/CesarCardozoUD.github.io#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
