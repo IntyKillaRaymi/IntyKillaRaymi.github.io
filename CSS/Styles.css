@@ -1,4 +1,6 @@
 @import url(https://unpkg.com/bootstrap@4.4.1/dist/css/bootstrap.min.css);
+@import url(https://unpkg.com/bootstrap-social@5.1.1/bootstrap-social.css);
+@import url(https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css);
 
 .row-header{
     margin: 0px auto;
