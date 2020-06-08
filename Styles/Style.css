@@ -15,20 +15,40 @@
 }
 
 .footer{
-    background-color: #D1C4E9;
+    background: #222222;
+    color: floralwhite;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
 
 .jumbotron{
-    padding: 70px 30px 70px 30px;
+    padding: 20px 30px 20px 30px;
     margin: 0px auto;
-    background: #9D9D9D;
+
+    font-size: 1u;
+
+    background: #222222;
     color: floralwhite;
 }
 
-.address{
-    font-size: 80%;
-    margin: 0px;
-    color: #0F0F0F;
+.jumbotron h1{
+    font-size: 500%;
+    font-weight: bold;
+}
+
+aside{
+    background-color: #6FD36F;
+    padding: 1u;
+}
+
+aside h3{
+    background-color: #40B840;
+    padding: 15px 15px;
+    border-radius: 15px;
+    margin: auto;
+}
+
+aside p{
+    padding: 15px 30px;
+    font-size: 150%;
 }
