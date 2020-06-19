@@ -28,7 +28,8 @@ body{
 }
 
 .navbar-dark {
-     background-color: #111111;
+     background-color: #222222;
+     border-bottom: 4px solid black;
 }
 
 .double-border {
