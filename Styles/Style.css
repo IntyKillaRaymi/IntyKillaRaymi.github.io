@@ -9,6 +9,14 @@
     border-radius: 50%;
 }
 
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
 
 .double-border {
     border: 20px double #111111;
@@ -50,12 +58,12 @@
 }
 
 aside{
-    background-color: #6FD36F;
+    background-color: #AFD3AF;
     padding: 1u;
 }
 
 aside h3{
-    background-color: #40B840;
+    background-color: #9FC39F;
     padding: 15px 15px;
     border-radius: 15px;
     margin: auto;
